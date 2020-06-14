@@ -1,4 +1,4 @@
-# Handling virtual environments
+# Python Virtualenvs Cheatsheet
 
 ## Conda virtual environments
 

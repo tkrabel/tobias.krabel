@@ -1,4 +1,4 @@
-# Jupyter
+# Jupyter Cheatsheet
 
 ## Jupyter notebook
 

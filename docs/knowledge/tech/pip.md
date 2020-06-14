@@ -1,4 +1,4 @@
-# Pip
+# Pip Cheatsheet
 
 ``` bash
 pip list | grep "bamboolib"  # Version of one package
