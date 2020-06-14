@@ -4,9 +4,26 @@ sidebar: true
 
 # Knowledge
 
-Richard Fienman famously kept a list of "Things I don't know". This is my own list and zettlekasten - a repository of personal knowledge that I update from time to time when I find interesting links or research a topic. These small changes are like compound interest. I only expect them to be useful and accurate after a lifetime of updates.
+Richard Fienman famously kept a list of "Things I don't know". This is my own a repository of personal knowledge that I update from time to time when I find interesting links or research a topic.
 
 Use the sidebar to get started.
+
+## Useful resources
+
+Links to resources that don't have their own category yet.
+
+### Marketing
+
+- [Marketing examples by Harry Dry](https://marketingexamples.com/)
+
+### Startup
+
+- [Joe Procopio](https://www.joeprocopio.com/index.html)
+- [Dave Bailey](https://medium.dave-bailey.com/)
+
+### Tech
+
+- [Joel Spolsky](/https://www.joelonsoftware.com/)
 
 ----
 
