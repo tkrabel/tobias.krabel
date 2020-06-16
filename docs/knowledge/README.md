@@ -8,7 +8,7 @@ Richard Fienman famously kept a list of "Things I don't know". This is my own a 
 
 Use the sidebar to get started.
 
-## Useful resources
+## Inspiration
 
 Links to resources that don't have their own category yet.
 
@@ -25,9 +25,6 @@ Links to resources that don't have their own category yet.
 
 - [Joel Spolsky](/https://www.joelonsoftware.com/)
 
-----
-
-<section-contents />
 
 
 <!---
