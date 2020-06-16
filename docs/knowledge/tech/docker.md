@@ -60,6 +60,33 @@ docker images | grep "none"
 docker rmi $(docker images | grep "none" | awk '/ / { print $3 }')
 ```
 
+### Using secrets for building an image
+
+Example: I want to clone a private github repo and do a dev install inside the image.
+
+I need a github access token for that.
+
+1. Get a github access token and store it in `~/.bash_profile`
+
+``` bash
+export GITHUB_TOKEN="12345"
+```
+
+2. In the Dockerfile, access the token through `ARG`
+
+``` docker
+ARG github_token
+
+RUN git config --global url."https://${github_token}:@github.com/".insteadOf "https://github.com/"
+RUN git clone https://github.com/<user_name>/<repo_name>.git
+```
+
+3. Feed `docker build` with the environment variable.
+
+``` bash
+docker build --build-arg github_token=$GITHUB_TOKEN ...
+```
+
 ## Docker Compose
 
 ```sh
