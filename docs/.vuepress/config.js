@@ -19,10 +19,10 @@ module.exports = {
   // ],
   themeConfig: {
     nav: [
-      { text: 'Blog', link: '/blog/' },
-      { text: 'Principles', link: '/principles/' },
-      { text: 'Knowledge', link: '/knowledge/' },
-      { text: 'Summaries', link: '/summaries/' },
+      { text: '✍️ Blog', link: '/blog/' },
+      { text: '💭 Principles', link: '/principles/' },
+      { text: '🧠 Knowledge', link: '/knowledge/' },
+      { text: '📚 Summaries', link: '/summaries/' },
     ],
     sidebar: {
       '/blog/': [
@@ -51,6 +51,13 @@ module.exports = {
             'tech/vscode-snippets',
             'tech/computer-science',
             'tech/audio-video',
+          ],
+        },
+        {
+          title: 'Business',
+          collapsable: false,
+          children: [
+            'business/four-channel-framework',
           ],
         },
       ],
