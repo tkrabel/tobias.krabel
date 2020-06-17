@@ -25,7 +25,7 @@ Spent time with prioratization.
 
 **Approach**: Install proactive and obligatory feedback loops and dedicate time to connecting and sharing.
 
-### Get feelings of your chest
+### Get feelings off your chest
 
 **Approach**: Write a journal or talk with a friend of colleague.
 **Benefit**: There is [scientific evidence](https://www.bakadesuyo.com/2015/09/make-you-happy-2/) that describing an emotion in just a word or two helps reducing the emotion.
