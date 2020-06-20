@@ -30,6 +30,18 @@ Spent time with prioratization.
 **Approach**: Write a journal or talk with a friend of colleague.
 **Benefit**: There is [scientific evidence](https://www.bakadesuyo.com/2015/09/make-you-happy-2/) that describing an emotion in just a word or two helps reducing the emotion.
 
+## Asking Good Questions
+
+Good questions are open, curious, simple, reflective, and start with "how" and "what".
+seven powerful questions that every leader can use with their team:
+
+* **The Kick Start Question**: What's on your mind?
+* **The A.W.E. Question**: And what else?
+* **The Focus Question**: What's the real challenge here for you?
+* **The Foundation Question**: What do you want?
+* **The Lazy Question**: How can I help? or What do you want from me?
+* **The Strategic Question**: If you say yes to this, what must you say no to?
+* **The Learning Question**: What was most useful or most valuable here for you?
 
 ## Seed Phase Principles
 
