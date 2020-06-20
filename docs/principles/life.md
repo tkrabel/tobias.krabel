@@ -11,6 +11,43 @@ Decision making framework for life events
 [[toc]]
 
 
+## Healthy habits
+
+Here is a list of healthy habits that ultimately apply to all domains in life, but become particularly important when running a startup. I hope this list will help others too.
+
+### Prioritizing time
+
+Spent time with prioratization.
+
+- **Benefit**: It helps reduce stress by staying focused on what's important.
+- **Approach**: Do a lightweight prioritazion session at the beginning of each day, week, and month. Consistency is key. When prioritizing, remember that the point of all work is ultimately to **help other people** (i.e. customers or team members in most cases). Framing your goals from this perspective helps you reconnect with a sense of purpose.
+
+### Reduce fear by connecting
+
+**Approach**: Install proactive and obligatory feedback loops and dedicate time to connecting and sharing.
+
+### Get feelings off your chest
+
+**Approach**: Write a journal or talk with a friend of colleague.
+**Benefit**: There is [scientific evidence](https://www.bakadesuyo.com/2015/09/make-you-happy-2/) that describing an emotion in just a word or two helps reducing the emotion.
+
+## Asking Good Questions
+
+Good questions are open, curious, simple, reflective, and start with "how" and "what".
+seven powerful questions that every leader can use with their team:
+
+* **The Kick Start Question**: What's on your mind?
+* **The A.W.E. Question**: And what else?
+* **The Focus Question**: What's the real challenge here for you?
+* **The Foundation Question**: What do you want?
+* **The Lazy Question**: How can I help? or What do you want from me?
+* **The Strategic Question**: If you say yes to this, what must you say no to?
+* **The Learning Question**: What was most useful or most valuable here for you?
+
+## Other helpful principles
+
+Thougths that need to be fleshed out in order to deserve a larger heading.
+
 ### Walk 20 miles every day
 
 And use Pareto along the way
