@@ -46,7 +46,7 @@ seven powerful questions that every leader can use with their team:
 
 ## Other helpful principles
 
-Thougths that need to be fleshed out in order to deserve a larger heading.
+Thoughts that need to be fleshed out in order to deserve a larger heading.
 
 ### Walk 20 miles every day
 
