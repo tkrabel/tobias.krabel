@@ -58,6 +58,8 @@ module.exports = {
           collapsable: false,
           children: [
             'business/four-channel-framework',
+            'business/marketing',
+            'business/pricing',
           ],
         },
       ],
