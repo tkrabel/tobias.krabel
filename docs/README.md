@@ -1,14 +1,11 @@
-## [Insert inspiring title here] =)
 
 **This is the very beginning of my personal project**. Expect a lot of things to change over the course of time.
-
-Truth been told: I took the template for my website from [Paul Copplestone](https://paul.copplest.one), and want to thank him for his inspirations. If you find the content on this website useful, chances are you will find his content valuable too. The content on this website will slowly diverge from his content however. After all, it's always better to think through your own topics and collect it your way. This process creates active connections in your brain that cannot be created by passive reading only.
 
 [Blog](/blog/) <br />A space for me to reflect and collect.
 
 [Principles and Mental Models](/principles/) <br />Decision making frameworks and mental models. Principles are fundamental truths or propositions that serve as the foundation for a system of belief or behaviour. You can establish principles that weaken you, and you can establish principles that empower you. I chose to collect the latter. I am not happy with the naming yet, as I want to distinguish **fundamental concepts** from **tools**, and perhaps also keep them separate from **approaches**. Let's see how well this goes in the future =).
 
-[Knowledge](/knowledge/) <br />This is my repository of personal knowledge that I update from time to time when I find interesting links or research a topic. This knowledge will spread from biology to computer science and maths.
+[Knowledge](/knowledge/) <br />This is my repository of personal knowledge that I update from time to time when I find interesting links or research a topic. This knowledge will spread from biology over psychology & philosophy to computer science & maths.
 
 [Summaries](/summaries/) <br />Here I summarise useful pieces. However, my goal is to abstract out useful common wisdom from several summaries to create a good foundation of principles, so expect this section to be somewhat to be a knowledge cache.
 
