@@ -10,17 +10,47 @@ Decision making framework for life events
 
 [[toc]]
 
-
 ## Healthy habits
 
 Here is a list of healthy habits that ultimately apply to all domains in life, but become particularly important when running a startup. I hope this list will help others too.
 
-### Prioritizing time
+### Morning Ritual
+
+A morning ritual helps us stay motivated achieving our goals and make good decisions for the day.
+
+#### Transcendental meditation
+
+Do it every morning, for as long as you want (I prefer 10 - 20 minutes). It consists of four steps
+
+1. Find a comfortable place
+2. Take a relaxed position (but sit upright; don't leaagainst something; this prevents you from falling asleep)
+3. Close your eyes and focus on your breathe
+4. During the meditation, repeat a sound that has no association with anything for you (like "EM", "OM", "SHI", "CHI", etc.; otherwise, you will start mind-wandering from the sound. If you're interested, try to use a word like "ship" and observe your thoughts go bananas). A "meaningless" sound will shut your thoughts.
+
+#### Morning Pages
+
+Sit down, take pen and paper or your laptop and write down *whatever* comes into your mind (Persist your stream of thought). I usually stop when I reach 1 - 3 pages.
+
+**Benefit**: This exercise is truly! When putting your unfiltered thoughts on paper, you get a clearer picture of what's important for you in life. Also, you reflect and reduce your sorrows (simply by expressing them).
+
+#### Questions for the morning
+
+**Approach**: Take 5 minuntes to reflect on these questions in the morning. Pick as many questions as you want.
+
+- How can I make today great? How can I do good today?
+- What am I *thankful* for?
+- What *matters* most today?
+- Meta question: Which morning habits set me up for success?
+
+**Benefit**: The investment of time in reflecting on these questions reminds you of your goals. Reviewing our priorities and schedule will return exponential dividends throughout the day. You will be calmer, more focused, and better able to balance the urgent needs of the day and your longer-term commitments and goals.
+
+#### Prioritizing time
 
 Spent time with prioratization.
 
 - **Benefit**: It helps reduce stress by staying focused on what's important.
-- **Approach**: Do a lightweight prioritazion session at the beginning of each day, week, and month. Consistency is key. When prioritizing, remember that the point of all work is ultimately to **help other people** (i.e. customers or team members in most cases). Framing your goals from this perspective helps you reconnect with a sense of purpose.
+- **Approach**: Do a lightweight prioritazion session at the beginning of each day, week, and month. Consistency is key. When prioritizing, remember that the point of all work is ultimately to **help other people** (e.g. friends, family, customers or team members). Framing your goals from this perspective helps you reconnect with a sense of purpose.
+- **Important**: keep a time slot for yourself.
 
 ### Reduce fear by connecting
 
@@ -30,6 +60,10 @@ Spent time with prioratization.
 
 **Approach**: Write a journal or talk with a friend of colleague.
 **Benefit**: There is [scientific evidence](https://www.bakadesuyo.com/2015/09/make-you-happy-2/) that describing an emotion in just a word or two helps reducing the emotion.
+
+### Contemplating Death
+
+Being aware of your death puts all the urgencies in the material world you might feel in a more healthy perpective. It helps you focus on what really matters to you and it's a good antidote to (unhealthy) perfectionism and workaholism. A mantra that helped me most: "At the end of my life, when I am lying in bed, ready to die, I won't think about that awesome pitch deck or app I've created. I will think about all the meaningful relationships I have had, all the love I have received and all the love I was able to give."
 
 ## Asking Good Questions
 
