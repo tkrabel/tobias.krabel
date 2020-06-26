@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Tobias Krabel',
-  description: 'Curious about the World',
+  description: 'Love of Wisdom',
   dest: 'public',
   plugins: [
     '@vuepress/last-updated',

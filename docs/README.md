@@ -1,3 +1,5 @@
+# Love of Wisdom
+
 
 **This is the very beginning of my personal project**. Expect a lot of things to change over the course of time.
 
