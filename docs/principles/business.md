@@ -12,7 +12,8 @@ Principles, approaches and habits for businesses and startups
 
 ## Seed Phase Principles
 
-There is one guiding principle for operating at Early stage: find profitable product-market-fit, while keeping your costs as small as possible.
+- Find profitable product-market-fit, while keeping your costs as small as possible.
+- Iterate quickly and review more than you plan
 
 ### The game
 

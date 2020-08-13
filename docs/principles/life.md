@@ -10,6 +10,10 @@ Decision making framework for life events
 
 [[toc]]
 
+## Seek Early Truth
+
+Sounds like an obvious one, but it's clearly not. In everything you do, you should always seek the truth quickly.
+
 ## Healthy habits
 
 Here is a list of healthy habits that ultimately apply to all domains in life, but become particularly important when running a startup. I hope this list will help others too.
@@ -31,7 +35,7 @@ Do it every morning, for as long as you want (I prefer 10 - 20 minutes). It cons
 
 Sit down, take pen and paper or your laptop and write down *whatever* comes into your mind (Persist your stream of thought). I usually stop when I reach 1 - 3 pages.
 
-**Benefit**: This exercise is truly! When putting your unfiltered thoughts on paper, you get a clearer picture of what's important for you in life. Also, you reflect and reduce your sorrows (simply by expressing them).
+**Benefit**: This exercise is truly powerful! When putting your unfiltered thoughts on paper, you get a clearer picture of what's important for you in life. Also, you reflect and reduce your sorrows (simply by expressing them).
 
 #### Questions for the morning
 
